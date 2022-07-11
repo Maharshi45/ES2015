@@ -5,7 +5,7 @@
  * If program runs successfully then it returns 'resolve'
  * If program generates any error then it returns 'reject'
  * We can handle 'resolve' using 'then' block
- * And we can handle 'reject' using 'catch' block.
+ * And we can handle 'reject' using 'catch' block
  */
 
 const done = true;
